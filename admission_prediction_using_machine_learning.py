@@ -1,4 +1,4 @@
-# Admission_Prediction_using_Machine_Learning By Zahra Shahid
+# Admission_Prediction_using_Machine_Learning By Abinaya 
 
 
 """# **Import libraries**"""
